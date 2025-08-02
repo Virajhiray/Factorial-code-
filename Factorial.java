@@ -1,3 +1,4 @@
+package assignment2;
 
 public class Factorial {
 	public class RecursiveTrace {
@@ -58,3 +59,4 @@ public class Factorial {
 	}
 
 }
+
